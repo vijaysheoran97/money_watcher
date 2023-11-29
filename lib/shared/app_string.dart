@@ -1,0 +1,9 @@
+const String appName = 'Money Watcher';
+const String login = 'Login';
+const String loginText = 'Login app to continue';
+const String email = 'Email';
+const String emailFieldHint = 'Enter Email';
+const String password = 'Password';
+const String passwordFieldHint = 'Enter Password';
+const String noAccount = "Don't have account";
+const String register = "Register";
